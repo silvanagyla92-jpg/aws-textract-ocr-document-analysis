@@ -4,8 +4,6 @@ Pasta destinada aos resultados gerados durante a execução do processo de extra
 
 ---
 
-**Padronização do Rodapé:**
-
 **Projeto:** AWS Textract OCR Document Analysis
 
 **Autora:** Nágyla Silva
