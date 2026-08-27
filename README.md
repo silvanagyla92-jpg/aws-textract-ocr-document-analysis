@@ -2,11 +2,11 @@
 
 Projeto prático de extração de texto em imagens utilizando **AWS Textract** e **Python**.
 
-## Objetivo
+## 1. Objetivo
 
 Demonstrar, de forma prática, como utilizar recursos de reconhecimento óptico de caracteres (OCR) da AWS para identificar e extrair textos presentes em imagens e documentos.
 
-## Tecnologias utilizadas
+## 2. Tecnologias utilizadas
 
 - Python
 - AWS Textract
@@ -15,7 +15,7 @@ Demonstrar, de forma prática, como utilizar recursos de reconhecimento óptico 
 - OCR (Optical Character Recognition)
 - Git e GitHub
 
-## Estrutura do projeto
+## 3. Estrutura do projeto
 
 ```text
 aws-textract-ocr-document-analysis/
@@ -28,7 +28,7 @@ aws-textract-ocr-document-analysis/
 └── .gitignore
 ```
 
-## Fluxo da solução
+## 4. Fluxo da solução
 
 ```text
 Imagem
@@ -44,7 +44,7 @@ Processamento da resposta
 Texto extraído
 ```
 
-## Próximas etapas
+## 5. Próximas etapas
 
 - Implementar o código de integração com o AWS Textract.
 - Adicionar uma imagem de teste sem dados pessoais.
@@ -52,10 +52,20 @@ Texto extraído
 - Documentar evidências com prints.
 - Analisar os resultados, insights e possibilidades de aplicação.
 
-## Segurança
+## 6. Segurança
 
 Nenhuma credencial da AWS deve ser armazenada neste repositório. Utilize as configurações seguras recomendadas pela AWS para autenticação.
 
-## Projeto de portfólio
+## 7. Projeto de portfólio
 
 Este projeto foi desenvolvido como atividade prática de estudos em Inteligência Artificial, reconhecimento de documentos e processamento de informações, com foco em demonstrar aprendizado aplicado e documentação técnica.
+
+## 8. Contato
+
+**Autor:** Nágyla Silva
+
+**Projeto:** AWS Textract OCR Document Analysis
+
+**Desafio:** Análise Avançada de Imagens e Texto com IA na AWS
+
+**GitHub:** [silvanagyla92-jpg](https://github.com/silvanagyla92-jpg)
