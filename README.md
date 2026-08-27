@@ -76,7 +76,31 @@ O projeto foi desenvolvido como atividade prática de estudos em Inteligência A
 
 Seu objetivo é demonstrar compreensão conceitual, organização de código e capacidade de estruturar uma solução de OCR, sem afirmar uma execução do Amazon Textract que não foi realizada.
 
-## 9. Contato
+## 9. Referências utilizadas
+
+As referências abaixo foram utilizadas para fundamentar a elaboração conceitual e técnica do projeto. A implementação foi construída para fins educacionais e não constitui reprodução integral de nenhum exemplo oficial.
+
+1. **Amazon Textract — Documentação oficial da AWS:** referência principal para conceitos de detecção e análise de texto em documentos, tipos de documentos processados e recursos do serviço.
+   - https://docs.aws.amazon.com/textract/
+
+2. **Amazon Textract — Guia do desenvolvedor:** referência para o funcionamento do serviço, análise de documentos, extração de texto, formulários, tabelas, consultas e outros elementos estruturados.
+   - https://docs.aws.amazon.com/pt_br/textract/latest/dg/textract-dg.pdf
+
+3. **Amazon Textract — Analisando documentos:** referência para compreender as categorias de informação extraídas, incluindo texto, formulários, tabelas, consultas, assinaturas e layout.
+   - https://docs.aws.amazon.com/pt_br/textract/latest/dg/how-it-works-analyzing.html
+
+4. **Amazon Textract — Referência da API:** referência para as operações disponíveis e os objetos retornados pelo serviço, incluindo `DetectDocumentText`, `AnalyzeDocument` e operações assíncronas.
+   - https://docs.aws.amazon.com/pt_br/textract/latest/APIReference/Welcome.html
+
+5. **Amazon Textract — AnalyzeDocument:** referência específica para a operação de análise de documentos e seus tipos de saída, como linhas, palavras, tabelas, formulários, assinaturas e consultas.
+   - https://docs.aws.amazon.com/textract/latest/APIReference/API_AnalyzeDocument.html
+
+6. **Amazon Textract — Analisando texto do documento:** referência para exemplos de utilização da API e integração com SDKs, incluindo Python.
+   - https://docs.aws.amazon.com/pt_br/textract/latest/dg/analyzing-document-text.html
+
+Essas fontes são mantidas como referências técnicas do estudo e podem ser consultadas para aprofundamento ou eventual evolução futura da implementação.
+
+## 10. Contato
 
 **Autor:** Nágyla Silva
 
