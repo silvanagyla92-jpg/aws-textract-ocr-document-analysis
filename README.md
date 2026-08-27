@@ -78,27 +78,17 @@ Seu objetivo é demonstrar compreensão conceitual, organização de código e c
 
 ## 9. Referências utilizadas
 
-As referências abaixo foram utilizadas para fundamentar a elaboração conceitual e técnica do projeto. A implementação foi construída para fins educacionais e não constitui reprodução integral de nenhum exemplo oficial.
+As principais referências utilizadas para a elaboração deste projeto foram fontes oficiais e documentação técnica relacionada ao Amazon Textract, OCR e sua integração com Python:
 
-1. **Amazon Textract — Documentação oficial da AWS:** referência principal para conceitos de detecção e análise de texto em documentos, tipos de documentos processados e recursos do serviço.
-   - https://docs.aws.amazon.com/textract/
+- **Amazon Textract — Documentação oficial da AWS:** conceitos, recursos e funcionamento do serviço de análise de documentos.
+- **Amazon Textract Developer Guide:** orientações técnicas sobre OCR, análise de documentos, blocos de resposta e recursos de processamento.
+- **Amazon Textract API Reference:** referência dos recursos e operações disponibilizados pela API.
+- **AnalyzeDocument:** documentação da operação utilizada como referência para a análise de documentos e extração de informações.
+- **Boto3 — AWS SDK for Python:** referência para integração de aplicações Python com serviços da AWS.
+- **Tesseract OCR:** documentação e informações técnicas utilizadas como referência para a alternativa de OCR local.
+- **Pillow:** documentação utilizada como referência para manipulação de imagens em Python.
 
-2. **Amazon Textract — Guia do desenvolvedor:** referência para o funcionamento do serviço, análise de documentos, extração de texto, formulários, tabelas, consultas e outros elementos estruturados.
-   - https://docs.aws.amazon.com/pt_br/textract/latest/dg/textract-dg.pdf
-
-3. **Amazon Textract — Analisando documentos:** referência para compreender as categorias de informação extraídas, incluindo texto, formulários, tabelas, consultas, assinaturas e layout.
-   - https://docs.aws.amazon.com/pt_br/textract/latest/dg/how-it-works-analyzing.html
-
-4. **Amazon Textract — Referência da API:** referência para as operações disponíveis e os objetos retornados pelo serviço, incluindo `DetectDocumentText`, `AnalyzeDocument` e operações assíncronas.
-   - https://docs.aws.amazon.com/pt_br/textract/latest/APIReference/Welcome.html
-
-5. **Amazon Textract — AnalyzeDocument:** referência específica para a operação de análise de documentos e seus tipos de saída, como linhas, palavras, tabelas, formulários, assinaturas e consultas.
-   - https://docs.aws.amazon.com/textract/latest/APIReference/API_AnalyzeDocument.html
-
-6. **Amazon Textract — Analisando texto do documento:** referência para exemplos de utilização da API e integração com SDKs, incluindo Python.
-   - https://docs.aws.amazon.com/pt_br/textract/latest/dg/analyzing-document-text.html
-
-Essas fontes são mantidas como referências técnicas do estudo e podem ser consultadas para aprofundamento ou eventual evolução futura da implementação.
+As referências foram utilizadas para fundamentação conceitual e estrutural. A existência dessas referências não significa que o serviço Amazon Textract tenha sido executado ou validado neste projeto.
 
 ## 10. Contato
 
@@ -111,6 +101,18 @@ Essas fontes são mantidas como referências técnicas do estudo e podem ser con
 **GitHub:** [silvanagyla92-jpg](https://github.com/silvanagyla92-jpg)
 
 **LinkedIn:** [Nágyla Silva](https://www.linkedin.com/in/n%C3%A1gyla-silva-215aba35/)
+
+## 11. Licença
+
+Este projeto está disponibilizado sob a licença **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
+
+A licença permite que o material original seja compartilhado, desde que a autora seja devidamente atribuída. O uso comercial não é permitido sem autorização, e não é permitida a distribuição de versões modificadas, adaptadas ou derivadas do material sem autorização.
+
+A licença aplica-se ao conteúdo documental e educacional deste projeto, incluindo textos, documentação e materiais apresentados no repositório. O código-fonte e eventuais componentes de software devem ser considerados separadamente quanto às condições de uso e às licenças de suas respectivas dependências.
+
+Consulte os termos completos da licença na página oficial da Creative Commons:
+
+[CC BY-NC-ND 4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ---
 
