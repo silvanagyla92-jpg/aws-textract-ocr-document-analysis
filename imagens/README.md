@@ -4,8 +4,6 @@ Pasta destinada às imagens utilizadas como entrada ou apoio à documentação d
 
 ---
 
-**Padronização do Rodapé:**
-
 **Projeto:** AWS Textract OCR Document Analysis
 
 **Autora:** Nágyla Silva
