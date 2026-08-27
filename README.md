@@ -76,7 +76,25 @@ O projeto foi desenvolvido como atividade prática de estudos em Inteligência A
 
 Seu objetivo é demonstrar compreensão conceitual, organização de código e capacidade de estruturar uma solução de OCR, sem afirmar uma execução do Amazon Textract que não foi realizada.
 
-## 9. Referências utilizadas
+## 9. Insights e possibilidades identificados durante o estudo
+
+O estudo do Amazon Textract permitiu compreender como recursos de Inteligência Artificial podem ser utilizados para automatizar a leitura e a extração de informações presentes em documentos, reduzindo a necessidade de transcrição manual e possibilitando a transformação de conteúdos não estruturados em informações que podem ser processadas posteriormente.
+
+Entre os principais insights identificados está a possibilidade de utilizar OCR como uma etapa inicial de fluxos de **Processamento Inteligente de Documentos (IDP)**, combinando extração de informações, organização dos dados, validação e encaminhamento para outras etapas de processamento.
+
+Também foi possível identificar aplicações potenciais em documentos estruturados e semiestruturados, formulários, registros e outros materiais que contenham informações textuais ou campos que precisem ser convertidos para formatos mais facilmente processáveis por sistemas computacionais.
+
+Outro insight importante é que a extração automática de informações pode servir como uma etapa intermediária para outras soluções de IA, permitindo que os dados extraídos sejam posteriormente analisados, classificados, validados ou utilizados em processos automatizados.
+
+O estudo também evidenciou a importância da **qualidade dos documentos de entrada**. Características como legibilidade, organização das informações e qualidade da imagem podem influenciar a qualidade da extração, tornando a validação dos resultados uma etapa importante de qualquer fluxo documental.
+
+Do ponto de vista de avaliação de sistemas de IA, o conteúdo também permite identificar a necessidade de verificar se as informações extraídas correspondem corretamente ao documento original. Assim, uma solução de OCR não deve ser considerada apenas pela capacidade de extrair informações, mas também pela **qualidade, consistência e confiabilidade dos resultados**.
+
+Como possibilidade de evolução, um fluxo documental poderia combinar OCR, regras de validação, classificação de documentos e outras técnicas de IA para criar processos mais completos de análise e organização de informações.
+
+**Limitação do projeto:** essas observações representam **aprendizados, insights e possibilidades identificados durante o estudo do conteúdo**. Não devem ser interpretados como resultados obtidos por uma implementação funcional do Amazon Textract neste repositório, pois o projeto foi desenvolvido com finalidade **educacional e documental**, sem acesso operacional ao serviço.
+
+## 10. Referências utilizadas
 
 As principais referências utilizadas para a elaboração deste projeto foram fontes oficiais e documentação técnica relacionada ao Amazon Textract, OCR e sua integração com Python:
 
@@ -90,7 +108,7 @@ As principais referências utilizadas para a elaboração deste projeto foram fo
 
 As referências foram utilizadas para fundamentação conceitual e estrutural. A existência dessas referências não significa que o serviço Amazon Textract tenha sido executado ou validado neste projeto.
 
-## 10. Contato
+## 11. Contato
 
 **Autor:** Nágyla Silva
 
@@ -102,7 +120,7 @@ As referências foram utilizadas para fundamentação conceitual e estrutural. A
 
 **LinkedIn:** [Nágyla Silva](https://www.linkedin.com/in/n%C3%A1gyla-silva-215aba35/)
 
-## 11. Licença
+## 12. Licença
 
 Este projeto está disponibilizado sob a licença **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**.
 
