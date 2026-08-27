@@ -4,8 +4,6 @@ Pasta destinada aos registros visuais e demais evidências da execução do proj
 
 ---
 
-**Padronização do Rodapé:**
-
 **Projeto:** AWS Textract OCR Document Analysis
 
 **Autora:** Nágyla Silva
