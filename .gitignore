@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Variáveis de ambiente e credenciais
+.env
+.env.*
+!.env.example
+
+# AWS
+.aws/
+
+# IDEs e editores
+.vscode/
+.idea/
+*.code-workspace
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Resultados locais que possam conter dados sensíveis
+resultados/*
+!resultados/.gitkeep
+
+# Imagens e documentos locais potencialmente sensíveis
+imagens/*
+!imagens/.gitkeep
