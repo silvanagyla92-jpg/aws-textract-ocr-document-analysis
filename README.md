@@ -70,6 +70,8 @@ Este projeto foi desenvolvido como atividade prática de estudos em Inteligênci
 
 **GitHub:** [silvanagyla92-jpg](https://github.com/silvanagyla92-jpg)
 
+**LinkedIn:** www.linkedin.com/in/nágyla-silva-215aba35a
+
 ---
 
 **Projeto:** AWS Textract OCR Document Analysis
