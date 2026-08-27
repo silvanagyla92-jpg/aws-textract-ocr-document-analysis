@@ -4,8 +4,6 @@ Pasta destinada aos códigos-fonte e componentes de execução do projeto.
 
 ---
 
-**Padronização do Rodapé:**
-
 **Projeto:** AWS Textract OCR Document Analysis
 
 **Autora:** Nágyla Silva
