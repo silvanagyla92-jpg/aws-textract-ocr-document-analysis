@@ -72,11 +72,9 @@ Este projeto foi desenvolvido como atividade prática de estudos em Inteligênci
 
 ---
 
-**Padronização do Rodapé:**
 
 **Projeto:** AWS Textract OCR Document Analysis
 
-**Autora:** Nágyla Silva
 
 Projeto integrante do portfólio prático em Inteligência Artificial,
 desenvolvido para demonstrar competências em treinamento e avaliação de
