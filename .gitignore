@@ -36,8 +36,6 @@ Thumbs.db
 
 # Resultados locais que possam conter dados sensíveis
 resultados/*
-!resultados/.gitkeep
 
 # Imagens e documentos locais potencialmente sensíveis
 imagens/*
-!imagens/.gitkeep
